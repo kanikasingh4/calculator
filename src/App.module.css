@@ -1,0 +1,28 @@
+.calculatorContainer {
+ background-image: radial-gradient(circle, rgb(0, 229, 255), rgb(63, 121, 128), rgb(0, 0, 0)); 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 710px;
+}
+.header {
+  height: 50px;
+  padding-top: 10px;
+  background-color: black;
+  color: rgb(38, 194, 221);
+  width: 100%;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.calculator {
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 5px;
+  margin-top: 120px;
+background-color: black;
+
+ 
+}
+
